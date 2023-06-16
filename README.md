@@ -10,7 +10,8 @@ Process final result files: User2.ipynb, User5.ipynb, User8.ipynb
 
 ## Based on the algorithm:
 Movie-Analysis by LJSthu (https://github.com/LJSthu/Movie-Analysis)
-reference: movie-poster-color-bars by joshwcheung (https://github.com/joshwcheung/movie-poster-color-bars)
+
+Color Bars: movie-poster-color-bars by joshwcheung (https://github.com/joshwcheung/movie-poster-color-bars)
 
 ## Database use:
 movie.csv: https://www.kaggle.com/datasets/neha1703/movie-genre-from-its-poster

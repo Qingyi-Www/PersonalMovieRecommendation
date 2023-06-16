@@ -6,6 +6,7 @@ Modify the input on this basis and generates Quantized Image and Color Bar of re
 
 ![下载](https://github.com/Qingyi-Www/Turtle-Dinner/assets/115076218/e5b91ea4-a5e4-4f30-b973-6d90453e82f1)
 ![下载 (1)](https://github.com/Qingyi-Www/Turtle-Dinner/assets/115076218/73094b05-3a9d-4572-9068-b8c0ea74647a)
+![下载 (2)](https://github.com/Qingyi-Www/Turtle-Dinner/assets/115076218/2e2f796b-1320-486c-997c-8c7a9be3b9ee)
 
 ## Document Test：
 I randomly selected 3 users and found that the recommended movies were different and all generated color bars.

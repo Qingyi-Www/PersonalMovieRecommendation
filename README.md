@@ -1,4 +1,4 @@
-# Personal Movie Recommendation
+# Personal Movie Recommender
 
 ## Introduce:
 It finds other users who are most similar to a given user by KNN algorithm based on the similarity between users, and recommends unrated movies to users based on the voting weights of these similar users 

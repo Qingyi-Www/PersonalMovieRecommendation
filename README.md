@@ -14,6 +14,9 @@ reference: movie-poster-color-bars by joshwcheung (https://github.com/joshwcheun
 
 ## Database use:
 movie.csv: https://www.kaggle.com/datasets/neha1703/movie-genre-from-its-poster
+
 test.csv: https://github.com/LJSthu/Movie-Analysis/blob/master/personal_recommender/train.csv
+
 train.csv: https://github.com/LJSthu/Movie-Analysis/blob/master/personal_recommender/train.csv
+
 Poster.csv: https://github.com/LJSthu/Movie-Analysis/blob/master/data/personal/movies.csv
